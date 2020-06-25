@@ -5,4 +5,4 @@ google_analytics: UA-169250566-1
 show_downloads: true
 paper_url: https://arxiv.org/
 code_url: https://github.com/gvalvano/multiscale-adversarial-attention-gates
-data_download_url: data.md
+data_download_url: data
