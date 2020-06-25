@@ -14,7 +14,12 @@ demonstrate extensions in a variety of settings: semi-supervised learning; combi
 scribble annotations for the ACDC dataset, and the code used for the experiments here.
 
 ## Keywords
-**Weak Supervision**, **Scribbles**, **Segmentation**, **GAN**, **Attention**, **Shape Priors**.
+**Weak Supervision** &nbsp;&nbsp; | &nbsp;&nbsp; 
+**Scribbles** &nbsp;&nbsp; | &nbsp;&nbsp;  
+**Segmentation** &nbsp;&nbsp; | &nbsp;&nbsp; 
+**GAN** &nbsp;&nbsp; | &nbsp;&nbsp; 
+**Attention** &nbsp;&nbsp; | &nbsp;&nbsp; 
+**Shape Priors**
 
 ## Cite us:
 ```
