@@ -21,7 +21,7 @@ If you use this data, please cite our paper as:
 The 2017 Automatic Cardiac Diagnosis Challenge dataset [1] contains cine-MR images obtained by 100 patients with different MR scanners and acquisition protocols. 
 Manual segmentations are provided along the images, containing pixel wise annotations for the end-diastolic (ED) and end-systolic (ES) cardiac phases. 
 The annotated structures are left ventricle (LV), right ventricle (RV) and myocardium (MYO). 
-Data can be downloaded [here]([https://www.creatis.insa-lyon.fr/Challenge/acdc/index.html](https://www.creatis.insa-lyon.fr/Challenge/acdc/index.html)).
+Data can be downloaded [here](https://www.creatis.insa-lyon.fr/Challenge/acdc/index.html).
 
 ### Scribble Generation
 
