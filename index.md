@@ -1,5 +1,8 @@
 
 ## Abstract
+
+<img align="right" src="https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/method.pdf" width=200>
+
 Large, fine-grained image segmentation datasets, annotated at pixel-level, are difficult to obtain, 
 particularly in medical imaging, where annotations also require expert knowledge. 
 Weakly-supervised learning can train models by relying on weaker forms of annotation, such as scribbles. 
