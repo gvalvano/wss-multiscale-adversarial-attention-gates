@@ -37,5 +37,5 @@ for RV, MYO, LV and BGD, respectively.
 IEEE TMI, vol. 37, no. 11, pp. 2514– 2525, 2018.*
 
 [2] *P. A. Yushkevich, J. Piven, H. Cody Hazlett, R. Gimpel Smith, S. Ho, J. C. Gee, and G. Gerig, 
-“User-Guided 3D Active Contour Segmentation of Anatomical Structures: Significantly Improved Efficiency and Reliability,” 
+“User-Guided 3D Active Contour Segmentation of Anatomical Structures: Significantly Improved Efficiency and Reliability” 
 Neuroimage, vol. 31, no. 3, pp. 1116–1128, 2006.*
