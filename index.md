@@ -1,7 +1,7 @@
 
 
 ## Don't miss any update!
-Subscribe to the mailing list to be notified when data and code will be released. To fill out the form below you must be logged in with a google account. Alternatively, you can directly [contact us](https://gvalvano.github.io/wss-multiscale-adversarial-attention-gates/#contacts).
+**Subscribe to be notified when data and code will be released**. To fill out the form, you must be logged in with a google account. Alternatively, you can directly [contact us](https://gvalvano.github.io/wss-multiscale-adversarial-attention-gates/#contacts).
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdXVFqMuc3Q_ojNkYWBkDNLd8sBNGjVkHw4oLx2xgZbN2EWXg/viewform?usp=sf_link" height="20%" width="80%" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
