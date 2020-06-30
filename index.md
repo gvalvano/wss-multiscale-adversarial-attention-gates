@@ -1,4 +1,5 @@
 
+
 ## Don't miss any update!
 Subscribe to the mailing list to be notified when data and code will be released.
 
@@ -43,3 +44,14 @@ scribble annotations for the ACDC dataset, and the code used for the experiments
   publisher={}
 }
 ```
+
+-----------------------------
+### Contacts
+
+<style type="text/css">
+span.spamprotection {display:none;}
+</style>
+
+<p>If you have any questions or suggestions, please write an email to:
+<span class="spamprotection">gabriele&period;valvano</span>&#64;imt lucca&period;it. 
+</p>
