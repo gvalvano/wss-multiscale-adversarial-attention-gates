@@ -1,6 +1,4 @@
-
 &larr; [Homepage](https://gvalvano.github.io/wss-multiscale-adversarial-attention-gates)
-
 
 
 ## Don't miss any update!
