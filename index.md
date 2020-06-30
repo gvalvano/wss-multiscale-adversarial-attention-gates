@@ -53,5 +53,5 @@ span.spamprotection {display:none;}
 </style>
 
 <p>If you have any questions or suggestions, please write an email to:
-<span class="spamprotection">gabriele&period;valvano</span>&#64;imtlucca&period;it . 
+<span class="spamprotection">gabriele.valvano</span>&#64;imtlucca&period;it . 
 </p>
