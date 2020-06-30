@@ -1,4 +1,11 @@
 
+## Don't miss any update!
+Subscribe to the mailing list to be notified when data and code will be released.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdXVFqMuc3Q_ojNkYWBkDNLd8sBNGjVkHw4oLx2xgZbN2EWXg/viewform?usp=sf_link" height="20%" width="80%" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+
 ## Abstract
 
 [comment]: <> (<img align="right" src="https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/method.pdf" width=100>)
