@@ -1,3 +1,4 @@
+title: Weakly Supervised Segmentation with<br>Multi-scale Adversarial Attention Gates
 
 
 ## Don't miss any update!
