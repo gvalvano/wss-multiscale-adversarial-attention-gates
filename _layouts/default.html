@@ -28,7 +28,7 @@
       <h1 class="project-name">{{site.title}}</h1>
       <img src="{{ page.image | default: site.logo }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
        -->      
-      <h2 class="project-tagline">{{ default: site.title | default: site.github.project_tagline }}</h2>
+      <h2 class="project-tagline">{{ default: site.project_tagline | default: site.github.project_tagline }}</h2>
       {% if site.show_downloads %}
       
         <a href="{{site.paper_url}}" class="btn">Paper</a>
