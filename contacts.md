@@ -15,4 +15,4 @@ gabriele&period;valvano<span class="spamprotection">dsadas</span>&#64; imtlucca&
 </p>
 
 -----------------------------
-:heart:  **Find out more about our team [here](https://tsaftarislab.github.io/team/).**
+&hearts; &nbsp; **Find out more about our team [here](https://tsaftarislab.github.io/team/).**
