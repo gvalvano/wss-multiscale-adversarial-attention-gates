@@ -10,7 +10,7 @@ title: Contacts
 span.spamprotection {display:none;}
 </style>
 
-If you have any questions or suggestions, please write an email to: gabriele&period;valvano<span class="spamprotection">.no.way.bots.get.this</span>&#64; imtlucca&period;it .
+<p> If you have any questions or suggestions, please write an email to: gabriele&period;valvano<span class="spamprotection">.no.way.bots.get.this</span>&#64; imtlucca&period;it .<\p>
 
 -----------------------------
 &hearts; **Find out more about our team [here](https://tsaftarislab.github.io/team/).**
