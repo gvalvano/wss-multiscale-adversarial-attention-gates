@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: Home
 ---
 
 ## Don't miss any update!
