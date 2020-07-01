@@ -14,4 +14,4 @@ span.spamprotection {display:none;}
 </p>
 
 -----------------------------
-&hearts; **Find out more about our team [here](https://tsaftarislab.github.io/team/).**
+&hearts; **Find out more about our [team](https://tsaftarislab.github.io/team/).**
