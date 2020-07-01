@@ -4,4 +4,4 @@ Project page of the paper:
 
 "Weakly Supervised Segmentation with Multi-scale Adversarial Attention Gates", by Gabriele Valvano, Andrea Leo, Sotirios A. Tsaftaris. Under consideration in IEEE Transactions on Medical Imaging.
 
-Wiew the page [here](https://gvalvano.github.io/wss-multiscale-adversarial-attention-gates/).
+**The project page is available [here](https://gvalvano.github.io/wss-multiscale-adversarial-attention-gates/).**
