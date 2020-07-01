@@ -6,6 +6,6 @@ show_top_buttons: true
 button_home_url: https://arxiv.org/
 button_paper_url: https://arxiv.org/
 button_code_url: https://github.com/gvalvano/multiscale-adversarial-attention-gates
-button_data_url: pages/data
+button_data_url: https://arxiv.org/
 button_contacts_url: pages/data
 banner: https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/images/banner.pdf
