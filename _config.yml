@@ -3,7 +3,7 @@ title: Weakly Supervised Segmentation with <br>Multi-scale Adversarial Attention
 description: Gabriele Valvano, Andrea Leo, Sotirios A. Tsaftaris
 google_analytics: UA-169250566-1
 show_downloads: true
-paper_url: https://arxiv.org/	button_home_url: https://arxiv.org/
-code_url: https://github.com/gvalvano/multiscale-adversarial-attention-gates	button_paper_url: https://arxiv.org/
-data_download_url: data
+button_paper_url: https://arxiv.org/	button_home_url: https://arxiv.org/
+button_code_url: https://github.com/gvalvano/multiscale-adversarial-attention-gates	button_paper_url: https://arxiv.org/
+button_data_url: data
 banner: https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/images/banner.pdf
