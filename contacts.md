@@ -11,8 +11,10 @@ span.spamprotection {display:none;}
 </style>
 
 <p>If you have any questions or suggestions, please write an email to:
-gabriele&period;valvano<span class="spamprotection">dsadas</span>&#64; imtlucca&period;it . 
+  <body>
+  <p style="color:rgb(0,0,255);">gabriele&period;valvano<span class="spamprotection">dsadas</span>&#64; imtlucca&period;it</p>
+</body> .
 </p>
 
 -----------------------------
-&hearts; &nbsp; **Find out more about our team [here](https://tsaftarislab.github.io/team/).**
+&hearts; **Find out more about our team [here](https://tsaftarislab.github.io/team/).**
