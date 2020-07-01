@@ -46,14 +46,3 @@ scribble annotations for the ACDC dataset, and the code used for the experiments
   publisher={}
 }
 ```
-
------------------------------
-### Contacts
-
-<style type="text/css">
-span.spamprotection {display:none;}
-</style>
-
-<p>If you have any questions or suggestions, please write an email to:
-gabriele&period;valvano<span class="spamprotection">dsadas</span>&#64; imtlucca&period;it . 
-</p>
