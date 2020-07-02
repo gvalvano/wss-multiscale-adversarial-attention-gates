@@ -4,7 +4,7 @@ title: Home
 
 <object data="https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/images/banner.pdf" type="application/pdf" width="100%">
     <embed src="https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/images/banner.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/images/banner.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
