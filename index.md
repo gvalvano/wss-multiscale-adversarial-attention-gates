@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img src="{{site.baseurl}}/images/banner.png" width="80%" align="center">
+<img src="{{site.baseurl}}/images/banner.pdf">
 
 
 ## Don't miss any update!
