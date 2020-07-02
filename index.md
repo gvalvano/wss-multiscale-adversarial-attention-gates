@@ -5,8 +5,8 @@ title: Home
 ## Don't miss any update!
 **You can either:**
  - **fill out** [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSdXVFqMuc3Q_ojNkYWBkDNLd8sBNGjVkHw4oLx2xgZbN2EWXg/viewform?usp=sf_link), and we will contact you with updates on *code* and *data*
- - **write us an** [**email**](https://gvalvano.github.io/wss-multiscale-adversarial-attention-gates/contacts), and we will answer back
- - **watch the** [**GitHub**](https://github.com/gvalvano/multiscale-adversarial-attention-gates) page for any update on the *code* release
+ - or **write us an** [**email**](https://gvalvano.github.io/wss-multiscale-adversarial-attention-gates/contacts), and we will answer back
+ - or **watch the** [**GitHub**](https://github.com/gvalvano/multiscale-adversarial-attention-gates) repository for updates on the *code*
 
 
 ## Abstract
