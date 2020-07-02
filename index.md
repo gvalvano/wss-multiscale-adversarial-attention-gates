@@ -1,22 +1,15 @@
 ---
 title: Home
 ---
-
+```
 <object data="https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/images/banner.pdf" type="application/pdf" width="100%">
     <embed src="https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/images/banner.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/images/banner.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-
-<html lang="en" style="width:100%; height:100%;">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>kekayan's Resume</title>
-</head>
-  <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url=https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/images/banner.pdf" style="width:100%; height:100%;" frameborder="0"></iframe>
-  </body>
-</html>
+```
+<embed src="https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/images/banner.pdf" width="500" height="375" 
+ type="application/pdf">
 
 
 ## Don't miss any update!
