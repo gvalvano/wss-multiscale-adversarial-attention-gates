@@ -8,6 +8,16 @@ title: Home
     </embed>
 </object>
 
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>kekayan's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url=https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/images/banner.pdf" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>
+
 
 ## Don't miss any update!
 **You can either:**
