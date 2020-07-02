@@ -14,4 +14,4 @@ span.spamprotection {display:none;}
 </p>
 
 -----------------------------
-[comment]: <> (&hearts; **Find out more about our [team](https://tsaftarislab.github.io/team/ .**)
+[comment]: <> (&hearts; **Find out more about our [team](https://).
