@@ -14,4 +14,4 @@ span.spamprotection {display:none;}
 </p>
 
 -----------------------------
-[comment]: <> (&hearts; **Find out more about our [team](https://).
+[comment]: <> (&hearts; **Find out more about our [team](https://. )
