@@ -11,3 +11,4 @@ button_contacts_url: contacts
 banner: https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/images/banner.pdf
 plugins:
   - jemoji
+image_url_prefix: images
