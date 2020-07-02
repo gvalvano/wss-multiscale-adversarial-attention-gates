@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img src="./images/banner.pdf" alt="SDTNet_block_diagram" width=100% height=400/>
+<img src="./images/banner.pdf" alt="banner-wss-multiscale-adversarial-attention-gates" width=100% height=400/>
 
 ## Don't miss any update!
 **You can either:**
