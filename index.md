@@ -2,7 +2,7 @@
 title: Home
 ---
 
-![Alt](./banner.pdf){width=100% height=400}
+![Alt](./images/banner.pdf){width=100% height=400}
 
 
 ## Don't miss any update!
