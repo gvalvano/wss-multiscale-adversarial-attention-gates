@@ -2,6 +2,9 @@
 title: Home
 ---
 
+![Alt](./banner.pdf){width=100% height=400}
+
+
 ## Don't miss any update!
 **You can either:**
  - **fill out** [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSdXVFqMuc3Q_ojNkYWBkDNLd8sBNGjVkHw4oLx2xgZbN2EWXg/viewform?usp=sf_link), and we will contact you with updates on *code* and *data*
