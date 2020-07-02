@@ -6,6 +6,8 @@ Project page of the paper:
 
 --------------------------
 **You can view the project page [here](https://gvalvano.github.io/wss-multiscale-adversarial-attention-gates/).**
+
 **You can view the paper [here](https://arxiv.org).**
+
 **You can find the code [here](https://github.com/gvalvano/multiscale-adversarial-attention-gates).**
 --------------------------
