@@ -2,11 +2,7 @@
 title: Home
 ---
 
-![image](https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/images/banner.png)
-![steam-fish-1](https://github.com/gvalvano/wss-multiscale-adversarial-attention-gates/blob/master/images/banner.png)
-![steam-fish-1]({{ "/assets/steam-fish-1.jpeg" | absolute_url }}banner.png)
-<img src="{{site.baseurl}}/images/banner.png">
-
+<img src="{{site.baseurl}}/images/banner.png" width="80%">
 
 
 ## Don't miss any update!
