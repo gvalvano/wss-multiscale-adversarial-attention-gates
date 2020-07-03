@@ -8,7 +8,7 @@ Project page of the paper:
 
 - [**project page**](https://gvalvano.github.io/wss-multiscale-adversarial-attention-gates/)
 
-- [**paper**](https://arxiv.org)
+- [**paper**](https://arxiv.org/abs/2007.01152)
 
 - [**code**](https://github.com/gvalvano/multiscale-adversarial-attention-gates)
 
