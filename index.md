@@ -39,12 +39,10 @@ scribble annotations for the ACDC dataset, and the code used for the experiments
 
 ## Cite us:
 ```
-@misc{valvano2020weakly,
-    title={Weakly Supervised Segmentation with Multi-scale Adversarial Attention Gates},
-    author={Gabriele Valvano and Andrea Leo and Sotirios A. Tsaftaris},
-    year={2020},
-    eprint={2007.01152},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@article{valvano2020weakly,
+  title={Weakly Supervised Segmentation with Multi-scale Adversarial Attention Gates},
+  author={Valvano, Gabriele and Leo, Andrea and Tsaftaris, Sotirios A},
+  journal={arXiv preprint arXiv:2007.01152},
+  year={2020}
 }
 ```
