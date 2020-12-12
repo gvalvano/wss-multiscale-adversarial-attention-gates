@@ -3,18 +3,12 @@ title: Data
 ---
 &larr; [Homepage](https://gvalvano.github.io/wss-multiscale-adversarial-attention-gates)
 
-## Don't miss any update!
-**You can either:**
- - **fill out** [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSdXVFqMuc3Q_ojNkYWBkDNLd8sBNGjVkHw4oLx2xgZbN2EWXg/viewform?usp=sf_link), and we will contact you with updates on *code* and *data*
- - or **write us an** [**email**](https://gvalvano.github.io/wss-multiscale-adversarial-attention-gates/contacts), and we will answer back
- - or **watch the** [**GitHub**](https://github.com/gvalvano/multiscale-adversarial-attention-gates) repository for updates on the *code*
-
-
 ## Download
 
-**We are working to make data available soon!**
+You can download the scribble annotations at [this link](https://github.com/gvalvano/multiscale-adversarial-attention-gates/raw/master/DATA/acdc_scribbles.zip).
+File names are the same as in the ACDC dataset. For example, for patient 12 we have the files `patient012_frame_ED_scribble.nii.gz` and `patient012_frame_ES_scribble.nii.gz` for the end-diastolic and end-systolic cardiac phases. 
 
-If you use this data, please cite our paper as:
+If you use this data, you should cite our paper as:
 ```
 @article{valvano2020weakly,
   title={Weakly Supervised Segmentation with Multi-scale Adversarial Attention Gates},
@@ -48,3 +42,9 @@ IEEE TMI, vol. 37, no. 11, pp. 2514– 2525, 2018.*
 [2] *P. A. Yushkevich, J. Piven, H. Cody Hazlett, R. Gimpel Smith, S. Ho, J. C. Gee, and G. Gerig, 
 “User-Guided 3D Active Contour Segmentation of Anatomical Structures: Significantly Improved Efficiency and Reliability” 
 Neuroimage, vol. 31, no. 3, pp. 1116–1128, 2006.*
+
+## Don't miss any update!
+**You can either:**
+ - **fill out** [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSdXVFqMuc3Q_ojNkYWBkDNLd8sBNGjVkHw4oLx2xgZbN2EWXg/viewform?usp=sf_link), and we will contact you with updates on *code* and *data*
+ - or **write us an** [**email**](https://gvalvano.github.io/wss-multiscale-adversarial-attention-gates/contacts), and we will answer back
+ - or **watch the** [**GitHub**](https://github.com/gvalvano/multiscale-adversarial-attention-gates) repository for updates on the *code*
