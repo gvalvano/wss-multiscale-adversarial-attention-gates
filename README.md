@@ -1,4 +1,4 @@
-# We moved here [here](https://vios-s.github.io/multiscale-adversarial-attention-gates/)
+# We moved [here](https://vios-s.github.io/multiscale-adversarial-attention-gates/)
 
 - [**project page**](https://vios-s.github.io/multiscale-adversarial-attention-gates/)
 
