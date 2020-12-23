@@ -1,10 +1,4 @@
-# Weakly Supervised Segmentation with Multi-scale Adversarial Attention Gates
-
-Project page of the paper: 
-
-"Weakly Supervised Segmentation with Multi-scale Adversarial Attention Gates", by Gabriele Valvano, Andrea Leo, Sotirios A. Tsaftaris (2020) ArXiv 2007.01152.
-
-# Resources:
+# We moved here [here](https://vios-s.github.io/multiscale-adversarial-attention-gates/)
 
 - [**project page**](https://vios-s.github.io/multiscale-adversarial-attention-gates/)
 
